@@ -6,7 +6,7 @@ The title of the show / website hub is inspired by the newspaper "The Real Deal"
 
 Here are some links to make actionable insights:
 
-[MTA live subway map](https://map.mta.info/#@40.772208,-73.9842111,12z)
+[MTA Live Subway Map](https://map.mta.info/#@40.772208,-73.9842111,12z)
 
 [NYC Property Rolling Sales Data](https://www1.nyc.gov/site/finance/taxes/property-rolling-sales-data.page)
 
