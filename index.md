@@ -10,4 +10,6 @@ Here are some links to make actionable insights:
 
 [NYC Property Rolling Sales Data](https://www1.nyc.gov/site/finance/taxes/property-rolling-sales-data.page)
 
+[Department of Finance OpenData](https://www1.nyc.gov/site/finance/about/open-portal.pa
+
 [NYC Capital Planning Explorer](https://capitalplanning.nyc.gov/)
