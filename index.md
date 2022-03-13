@@ -16,5 +16,7 @@ Here are some links to make actionable insights:
 
 ## Active
 
-[201 East 21st Street](https://github.com/TheRealShow/TheRealShow/blob/main/201_E_21st_2022-03-13.jpg)
+[201 East 21st Street - AVAIL](https://github.com/TheRealShow/TheRealShow/blob/main/201_E_21st_2022-03-13.jpg)
+
+[201 East 21st Street - SOLD](https://github.com/TheRealShow/TheRealShow/blob/main/201_E-21st_2022-03-13-SOLD.jpg)
 
